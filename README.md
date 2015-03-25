@@ -9,8 +9,12 @@ Maecenas purus elit, sodales ut scelerisque et, faucibus sed nibh. Ut vitae hend
 
 ### Getting Started
 
-Maecenas purus elit, sodales ut scelerisque et, faucibus sed nibh. Ut vitae hendrerit quam, ut pellentesque quam. Morbi iaculis eget quam sed dictum. 
+Maecenas purus elit, sodales ut scelerisque et, faucibus sed nibh. Ut vitae hendrerit quam, ut pellentesque quam. Morbi iaculis eget quam sed dictum.
 
+```html
+<!-- Include js plugin -->
+<script src="dev-mode/dev-mode.min.js"></script>
+```
 
 ### Configuration
 
